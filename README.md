@@ -6,7 +6,7 @@ Full Stack Engineer
 
 * 🌍  I'm based in Hsinchu, Taiwan
 * ✉️  You can contact me at [yychanlee1011@gmail.com](mailto:yychanlee1011@gmail.com)
-* 🧠  I'm learning FastAPI, Django, AWS
+* 🧠  I'm learning FastAPI, Django, AWS, Kubernetes
 
 ### Skills
 
