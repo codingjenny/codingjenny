@@ -1,10 +1,8 @@
 Happy to see you! My name is YungYueh ChanLee
 ========================================================================================================================================
 
-Full Stack Engineer
--------------------
-
 * 🌍  I'm based in Hsinchu, Taiwan
+* 💻  I'm a full stack engineer at [ITRI](https://www.itri.org.tw/)
 * ✉️  You can contact me at [yychanlee1011@gmail.com](mailto:yychanlee1011@gmail.com)
 * 🧠  I'm learning FastAPI, Django, AWS, Kubernetes
 
